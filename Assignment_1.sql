@@ -1,3 +1,8 @@
+DATE : 15/02/2022
+Assignment 01
+Title : DDL Commands, Constraints & Insertion of data into tables
+____________________________________________________________________________________________________
+
 Q1.
 
 CREATE TABLE DEPT(
